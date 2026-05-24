@@ -82,15 +82,15 @@ Full Stack Developer • AI Agents • Building with AI
   
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmadipalidev&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashbsharma&theme=tokyonight">
   
 </div> 
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmadipalidev&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakashbsharma&theme=tokyonight">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmadipalidev&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakashbsharma&theme=tokyonight">
 
 
 ---

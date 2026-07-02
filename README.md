@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hello😃, I'm Aakash Sharma</h1> -->
+ <!-- <h1 align="center">Hello😃, I'm Aakash Sharma</h1> -->
 
 <h3 align="center">
 Full Stack Developer • AI Agents • Building with AI
@@ -8,7 +8,7 @@ Full Stack Developer • AI Agents • Building with AI
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Agents+Learner;Backend+Engineer;Always+Learning+New+Things" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmadipalidev&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="DipaliSharma" />
+  <img src="https://komarev.com/ghpvc/?username=aakashbsharma&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Aakash Sharma" />
 </p>
 
 ---

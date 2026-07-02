@@ -13,7 +13,7 @@ Full Stack Developer • AI Agents • Building with AI
 
 ---
 
-<img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" >
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" >
 
 ## 🚀 About Me
 
